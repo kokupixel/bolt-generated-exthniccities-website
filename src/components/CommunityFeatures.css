@@ -1,0 +1,10 @@
+/* src/components/CommunityFeatures.css */
+.community-features {
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.community-features h2 {
+  color: #333;
+}

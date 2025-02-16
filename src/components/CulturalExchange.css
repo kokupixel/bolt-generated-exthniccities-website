@@ -1,0 +1,10 @@
+/* src/components/CulturalExchange.css */
+.cultural-exchange {
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.cultural-exchange h2 {
+  color: #333;
+}

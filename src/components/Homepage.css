@@ -1,0 +1,10 @@
+/* src/components/Homepage.css */
+.homepage {
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.homepage h2 {
+  color: #333;
+}

@@ -1,0 +1,10 @@
+/* src/components/DiscussionForums.css */
+.discussion-forums {
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.discussion-forums h2 {
+  color: #333;
+}

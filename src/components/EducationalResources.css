@@ -1,0 +1,10 @@
+/* src/components/EducationalResources.css */
+.educational-resources {
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.educational-resources h2 {
+  color: #333;
+}
